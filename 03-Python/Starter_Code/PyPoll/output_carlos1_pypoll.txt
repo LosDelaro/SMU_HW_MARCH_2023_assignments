@@ -1,0 +1,4 @@
+Election Results
+            ------------------------------
+total votes:369711
+Total:{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
