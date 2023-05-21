@@ -1,18 +1,20 @@
 import csv
+import numpy as np
 
-csv_path = "PyBank/Resources/budget_data-carlos.csv"
+csv_path = "Resources/budget_data.csv"
 
 
-# fir each row 
+# for each row 
 # add 1 to some counter for month
 # add column 2 (b) to some profit counter 
 
-months=0
+months = 0
 total_profit = 0
 
 is_first_row = True
 last_month_profit = 0
 changes = []
+month_changes = []
 
 # max change
 # max month
@@ -21,7 +23,7 @@ max_month = ""
 
 # min change
 # min month
-min_change = 999999999999999999
+min_change = 999999999999999999999
 min_month = ""
 
 
@@ -30,6 +32,7 @@ with open(csv_path) as csvfile:
     # CSV reader specifies delimiter and variable that holds contents
     csvreader = csv.reader(csvfile, delimiter=',')
     # print(csvreader)
+
    # Read the header row first (skip this step if there is no header)
     csv_header = next(csvreader)
     # print(f"CSV Header: {csv_header}")
@@ -47,6 +50,7 @@ with open(csv_path) as csvfile:
         else:
             change = row_profit - last_month_profit
             changes.append(change)
+            month_changes.append(row[0])
 
             # reset for the next month
             last_month_profit = row_profit
@@ -64,23 +68,24 @@ with open(csv_path) as csvfile:
         months += 1
         total_profit += int(row[1])
         
-        print('###############################')
-        print(months)
-        print(total_profit)
+    print('###############################')
+    print(months)
+    print(total_profit)
         
-        avg_changes = sum(changes) / len(changes)
-        print(avg_changes)
+    avg_changes = sum(changes) / len(changes)
+    print(avg_changes)
 
-        print(max_month, max_change)
-        print(min_month, min_change)
+    print(max_month, max_change)
+    print(min_month, min_change)
+
 
 #create output
 with open('output_carlos.txt','w')as txt_file:
     output=f"""Financial Analysis
-            ------------------------------
+------------------------------
 total Months:{months}
 Total:${total_profit}
 Average Change:${round(avg_changes,2)}
-Greatest Increase in Profits:{max_mount} (${max_change})
-Greatest Decrease in Profits:{min_mount} (${min_change})"""
+Greatest Increase in Profits:{max_month} (${max_change})
+Greatest Decrease in Profits:{min_month} (${min_change})"""
     txt_file.write(output)
