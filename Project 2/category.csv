@@ -1,0 +1,1001 @@
+,category_id,category
+0,cat1,food
+1,cat2,music
+2,cat3,technology
+3,cat2,music
+4,cat4,theater
+5,cat4,theater
+6,cat5,film & video
+7,cat4,theater
+8,cat4,theater
+9,cat2,music
+10,cat5,film & video
+11,cat4,theater
+12,cat5,film & video
+13,cat2,music
+14,cat2,music
+15,cat3,technology
+16,cat6,publishing
+17,cat5,film & video
+18,cat4,theater
+19,cat4,theater
+20,cat5,film & video
+21,cat4,theater
+22,cat4,theater
+23,cat5,film & video
+24,cat3,technology
+25,cat7,games
+26,cat4,theater
+27,cat2,music
+28,cat4,theater
+29,cat5,film & video
+30,cat5,film & video
+31,cat7,games
+32,cat5,film & video
+33,cat4,theater
+34,cat5,film & video
+35,cat5,film & video
+36,cat4,theater
+37,cat6,publishing
+38,cat8,photography
+39,cat4,theater
+40,cat3,technology
+41,cat2,music
+42,cat1,food
+43,cat6,publishing
+44,cat6,publishing
+45,cat4,theater
+46,cat2,music
+47,cat4,theater
+48,cat4,theater
+49,cat2,music
+50,cat2,music
+51,cat3,technology
+52,cat4,theater
+53,cat5,film & video
+54,cat3,technology
+55,cat2,music
+56,cat3,technology
+57,cat7,games
+58,cat4,theater
+59,cat4,theater
+60,cat4,theater
+61,cat4,theater
+62,cat3,technology
+63,cat4,theater
+64,cat3,technology
+65,cat4,theater
+66,cat4,theater
+67,cat3,technology
+68,cat4,theater
+69,cat4,theater
+70,cat4,theater
+71,cat4,theater
+72,cat5,film & video
+73,cat2,music
+74,cat2,music
+75,cat8,photography
+76,cat4,theater
+77,cat5,film & video
+78,cat6,publishing
+79,cat4,theater
+80,cat7,games
+81,cat2,music
+82,cat7,games
+83,cat2,music
+84,cat3,technology
+85,cat2,music
+86,cat4,theater
+87,cat2,music
+88,cat6,publishing
+89,cat4,theater
+90,cat4,theater
+91,cat6,publishing
+92,cat7,games
+93,cat4,theater
+94,cat3,technology
+95,cat5,film & video
+96,cat4,theater
+97,cat1,food
+98,cat7,games
+99,cat4,theater
+100,cat4,theater
+101,cat2,music
+102,cat3,technology
+103,cat2,music
+104,cat2,music
+105,cat3,technology
+106,cat4,theater
+107,cat4,theater
+108,cat5,film & video
+109,cat5,film & video
+110,cat1,food
+111,cat6,publishing
+112,cat3,technology
+113,cat1,food
+114,cat3,technology
+115,cat6,publishing
+116,cat4,theater
+117,cat5,film & video
+118,cat8,photography
+119,cat5,film & video
+120,cat7,games
+121,cat7,games
+122,cat6,publishing
+123,cat4,theater
+124,cat8,photography
+125,cat4,theater
+126,cat4,theater
+127,cat4,theater
+128,cat2,music
+129,cat1,food
+130,cat5,film & video
+131,cat3,technology
+132,cat4,theater
+133,cat2,music
+134,cat5,film & video
+135,cat4,theater
+136,cat5,film & video
+137,cat6,publishing
+138,cat7,games
+139,cat3,technology
+140,cat5,film & video
+141,cat3,technology
+142,cat3,technology
+143,cat2,music
+144,cat4,theater
+145,cat3,technology
+146,cat4,theater
+147,cat4,theater
+148,cat3,technology
+149,cat2,music
+150,cat2,music
+151,cat2,music
+152,cat2,music
+153,cat4,theater
+154,cat2,music
+155,cat4,theater
+156,cat2,music
+157,cat8,photography
+158,cat2,music
+159,cat4,theater
+160,cat3,technology
+161,cat3,technology
+162,cat2,music
+163,cat8,photography
+164,cat4,theater
+165,cat3,technology
+166,cat8,photography
+167,cat4,theater
+168,cat2,music
+169,cat5,film & video
+170,cat2,music
+171,cat6,publishing
+172,cat5,film & video
+173,cat4,theater
+174,cat3,technology
+175,cat4,theater
+176,cat4,theater
+177,cat4,theater
+178,cat1,food
+179,cat4,theater
+180,cat3,technology
+181,cat3,technology
+182,cat4,theater
+183,cat2,music
+184,cat4,theater
+185,cat5,film & video
+186,cat4,theater
+187,cat5,film & video
+188,cat4,theater
+189,cat4,theater
+190,cat4,theater
+191,cat4,theater
+192,cat2,music
+193,cat2,music
+194,cat2,music
+195,cat2,music
+196,cat3,technology
+197,cat5,film & video
+198,cat2,music
+199,cat2,music
+200,cat4,theater
+201,cat3,technology
+202,cat1,food
+203,cat4,theater
+204,cat2,music
+205,cat4,theater
+206,cat6,publishing
+207,cat2,music
+208,cat5,film & video
+209,cat5,film & video
+210,cat5,film & video
+211,cat4,theater
+212,cat4,theater
+213,cat2,music
+214,cat2,music
+215,cat4,theater
+216,cat4,theater
+217,cat5,film & video
+218,cat5,film & video
+219,cat5,film & video
+220,cat4,theater
+221,cat1,food
+222,cat8,photography
+223,cat4,theater
+224,cat5,film & video
+225,cat2,music
+226,cat8,photography
+227,cat7,games
+228,cat5,film & video
+229,cat7,games
+230,cat7,games
+231,cat4,theater
+232,cat4,theater
+233,cat5,film & video
+234,cat7,games
+235,cat5,film & video
+236,cat2,music
+237,cat5,film & video
+238,cat4,theater
+239,cat3,technology
+240,cat4,theater
+241,cat6,publishing
+242,cat2,music
+243,cat4,theater
+244,cat4,theater
+245,cat4,theater
+246,cat3,technology
+247,cat6,publishing
+248,cat7,games
+249,cat6,publishing
+250,cat2,music
+251,cat4,theater
+252,cat4,theater
+253,cat5,film & video
+254,cat6,publishing
+255,cat2,music
+256,cat2,music
+257,cat4,theater
+258,cat4,theater
+259,cat8,photography
+260,cat2,music
+261,cat2,music
+262,cat2,music
+263,cat8,photography
+264,cat4,theater
+265,cat4,theater
+266,cat2,music
+267,cat4,theater
+268,cat5,film & video
+269,cat5,film & video
+270,cat7,games
+271,cat8,photography
+272,cat4,theater
+273,cat4,theater
+274,cat4,theater
+275,cat6,publishing
+276,cat7,games
+277,cat4,theater
+278,cat3,technology
+279,cat4,theater
+280,cat5,film & video
+281,cat4,theater
+282,cat5,film & video
+283,cat2,music
+284,cat3,technology
+285,cat4,theater
+286,cat4,theater
+287,cat2,music
+288,cat2,music
+289,cat4,theater
+290,cat5,film & video
+291,cat3,technology
+292,cat1,food
+293,cat4,theater
+294,cat4,theater
+295,cat4,theater
+296,cat4,theater
+297,cat4,theater
+298,cat2,music
+299,cat1,food
+300,cat6,publishing
+301,cat5,film & video
+302,cat4,theater
+303,cat2,music
+304,cat5,film & video
+305,cat4,theater
+306,cat4,theater
+307,cat6,publishing
+308,cat4,theater
+309,cat2,music
+310,cat7,games
+311,cat4,theater
+312,cat4,theater
+313,cat2,music
+314,cat5,film & video
+315,cat4,theater
+316,cat1,food
+317,cat4,theater
+318,cat2,music
+319,cat3,technology
+320,cat6,publishing
+321,cat5,film & video
+322,cat4,theater
+323,cat5,film & video
+324,cat4,theater
+325,cat4,theater
+326,cat5,film & video
+327,cat4,theater
+328,cat2,music
+329,cat7,games
+330,cat5,film & video
+331,cat1,food
+332,cat3,technology
+333,cat4,theater
+334,cat2,music
+335,cat2,music
+336,cat2,music
+337,cat4,theater
+338,cat4,theater
+339,cat4,theater
+340,cat8,photography
+341,cat2,music
+342,cat4,theater
+343,cat4,theater
+344,cat7,games
+345,cat5,film & video
+346,cat2,music
+347,cat3,technology
+348,cat1,food
+349,cat4,theater
+350,cat2,music
+351,cat2,music
+352,cat4,theater
+353,cat4,theater
+354,cat5,film & video
+355,cat3,technology
+356,cat4,theater
+357,cat7,games
+358,cat8,photography
+359,cat5,film & video
+360,cat4,theater
+361,cat4,theater
+362,cat2,music
+363,cat2,music
+364,cat2,music
+365,cat4,theater
+366,cat4,theater
+367,cat4,theater
+368,cat5,film & video
+369,cat5,film & video
+370,cat4,theater
+371,cat4,theater
+372,cat5,film & video
+373,cat4,theater
+374,cat5,film & video
+375,cat2,music
+376,cat2,music
+377,cat4,theater
+378,cat5,film & video
+379,cat4,theater
+380,cat4,theater
+381,cat4,theater
+382,cat8,photography
+383,cat1,food
+384,cat5,film & video
+385,cat6,publishing
+386,cat4,theater
+387,cat3,technology
+388,cat2,music
+389,cat4,theater
+390,cat8,photography
+391,cat6,publishing
+392,cat3,technology
+393,cat2,music
+394,cat5,film & video
+395,cat4,theater
+396,cat5,film & video
+397,cat2,music
+398,cat5,film & video
+399,cat2,music
+400,cat8,photography
+401,cat4,theater
+402,cat5,film & video
+403,cat4,theater
+404,cat4,theater
+405,cat4,theater
+406,cat5,film & video
+407,cat4,theater
+408,cat5,film & video
+409,cat2,music
+410,cat7,games
+411,cat4,theater
+412,cat6,publishing
+413,cat5,film & video
+414,cat1,food
+415,cat4,theater
+416,cat5,film & video
+417,cat4,theater
+418,cat5,film & video
+419,cat3,technology
+420,cat4,theater
+421,cat3,technology
+422,cat4,theater
+423,cat1,food
+424,cat2,music
+425,cat8,photography
+426,cat4,theater
+427,cat4,theater
+428,cat5,film & video
+429,cat8,photography
+430,cat4,theater
+431,cat4,theater
+432,cat4,theater
+433,cat5,film & video
+434,cat4,theater
+435,cat4,theater
+436,cat2,music
+437,cat5,film & video
+438,cat4,theater
+439,cat5,film & video
+440,cat5,film & video
+441,cat3,technology
+442,cat4,theater
+443,cat4,theater
+444,cat2,music
+445,cat4,theater
+446,cat3,technology
+447,cat5,film & video
+448,cat7,games
+449,cat7,games
+450,cat5,film & video
+451,cat2,music
+452,cat5,film & video
+453,cat5,film & video
+454,cat5,film & video
+455,cat4,theater
+456,cat2,music
+457,cat4,theater
+458,cat4,theater
+459,cat5,film & video
+460,cat4,theater
+461,cat5,film & video
+462,cat7,games
+463,cat5,film & video
+464,cat4,theater
+465,cat6,publishing
+466,cat3,technology
+467,cat3,technology
+468,cat4,theater
+469,cat5,film & video
+470,cat3,technology
+471,cat1,food
+472,cat2,music
+473,cat2,music
+474,cat5,film & video
+475,cat6,publishing
+476,cat6,publishing
+477,cat5,film & video
+478,cat3,technology
+479,cat1,food
+480,cat8,photography
+481,cat4,theater
+482,cat6,publishing
+483,cat4,theater
+484,cat1,food
+485,cat4,theater
+486,cat6,publishing
+487,cat4,theater
+488,cat4,theater
+489,cat3,technology
+490,cat9,journalism
+491,cat1,food
+492,cat5,film & video
+493,cat8,photography
+494,cat3,technology
+495,cat4,theater
+496,cat5,film & video
+497,cat3,technology
+498,cat3,technology
+499,cat5,film & video
+500,cat4,theater
+501,cat5,film & video
+502,cat7,games
+503,cat5,film & video
+504,cat2,music
+505,cat6,publishing
+506,cat4,theater
+507,cat3,technology
+508,cat4,theater
+509,cat4,theater
+510,cat5,film & video
+511,cat4,theater
+512,cat7,games
+513,cat5,film & video
+514,cat2,music
+515,cat4,theater
+516,cat6,publishing
+517,cat1,food
+518,cat5,film & video
+519,cat2,music
+520,cat4,theater
+521,cat5,film & video
+522,cat5,film & video
+523,cat5,film & video
+524,cat4,theater
+525,cat3,technology
+526,cat4,theater
+527,cat5,film & video
+528,cat2,music
+529,cat7,games
+530,cat6,publishing
+531,cat7,games
+532,cat4,theater
+533,cat2,music
+534,cat5,film & video
+535,cat4,theater
+536,cat6,publishing
+537,cat5,film & video
+538,cat7,games
+539,cat1,food
+540,cat8,photography
+541,cat7,games
+542,cat2,music
+543,cat7,games
+544,cat2,music
+545,cat4,theater
+546,cat4,theater
+547,cat5,film & video
+548,cat4,theater
+549,cat3,technology
+550,cat2,music
+551,cat3,technology
+552,cat4,theater
+553,cat2,music
+554,cat2,music
+555,cat2,music
+556,cat6,publishing
+557,cat5,film & video
+558,cat4,theater
+559,cat4,theater
+560,cat5,film & video
+561,cat4,theater
+562,cat2,music
+563,cat5,film & video
+564,cat4,theater
+565,cat4,theater
+566,cat2,music
+567,cat2,music
+568,cat4,theater
+569,cat5,film & video
+570,cat2,music
+571,cat5,film & video
+572,cat2,music
+573,cat9,journalism
+574,cat1,food
+575,cat4,theater
+576,cat4,theater
+577,cat2,music
+578,cat5,film & video
+579,cat2,music
+580,cat4,theater
+581,cat3,technology
+582,cat7,games
+583,cat5,film & video
+584,cat3,technology
+585,cat6,publishing
+586,cat2,music
+587,cat1,food
+588,cat4,theater
+589,cat5,film & video
+590,cat6,publishing
+591,cat7,games
+592,cat4,theater
+593,cat5,film & video
+594,cat4,theater
+595,cat4,theater
+596,cat5,film & video
+597,cat4,theater
+598,cat2,music
+599,cat5,film & video
+600,cat1,food
+601,cat3,technology
+602,cat4,theater
+603,cat4,theater
+604,cat4,theater
+605,cat6,publishing
+606,cat2,music
+607,cat1,food
+608,cat2,music
+609,cat5,film & video
+610,cat4,theater
+611,cat4,theater
+612,cat2,music
+613,cat4,theater
+614,cat4,theater
+615,cat4,theater
+616,cat2,music
+617,cat4,theater
+618,cat6,publishing
+619,cat4,theater
+620,cat8,photography
+621,cat4,theater
+622,cat2,music
+623,cat4,theater
+624,cat8,photography
+625,cat4,theater
+626,cat4,theater
+627,cat1,food
+628,cat2,music
+629,cat4,theater
+630,cat4,theater
+631,cat4,theater
+632,cat4,theater
+633,cat5,film & video
+634,cat5,film & video
+635,cat5,film & video
+636,cat5,film & video
+637,cat4,theater
+638,cat4,theater
+639,cat5,film & video
+640,cat4,theater
+641,cat4,theater
+642,cat3,technology
+643,cat4,theater
+644,cat4,theater
+645,cat2,music
+646,cat7,games
+647,cat6,publishing
+648,cat1,food
+649,cat4,theater
+650,cat2,music
+651,cat5,film & video
+652,cat3,technology
+653,cat3,technology
+654,cat2,music
+655,cat8,photography
+656,cat1,food
+657,cat5,film & video
+658,cat2,music
+659,cat5,film & video
+660,cat4,theater
+661,cat2,music
+662,cat4,theater
+663,cat4,theater
+664,cat2,music
+665,cat5,film & video
+666,cat4,theater
+667,cat9,journalism
+668,cat4,theater
+669,cat4,theater
+670,cat2,music
+671,cat4,theater
+672,cat4,theater
+673,cat2,music
+674,cat8,photography
+675,cat9,journalism
+676,cat8,photography
+677,cat6,publishing
+678,cat5,film & video
+679,cat1,food
+680,cat7,games
+681,cat4,theater
+682,cat4,theater
+683,cat4,theater
+684,cat6,publishing
+685,cat4,theater
+686,cat3,technology
+687,cat4,theater
+688,cat5,film & video
+689,cat3,technology
+690,cat5,film & video
+691,cat5,film & video
+692,cat2,music
+693,cat4,theater
+694,cat4,theater
+695,cat2,music
+696,cat4,theater
+697,cat2,music
+698,cat3,technology
+699,cat5,film & video
+700,cat3,technology
+701,cat4,theater
+702,cat3,technology
+703,cat6,publishing
+704,cat5,film & video
+705,cat6,publishing
+706,cat3,technology
+707,cat5,film & video
+708,cat4,theater
+709,cat4,theater
+710,cat4,theater
+711,cat4,theater
+712,cat4,theater
+713,cat6,publishing
+714,cat2,music
+715,cat7,games
+716,cat4,theater
+717,cat5,film & video
+718,cat3,technology
+719,cat6,publishing
+720,cat4,theater
+721,cat2,music
+722,cat5,film & video
+723,cat4,theater
+724,cat4,theater
+725,cat7,games
+726,cat4,theater
+727,cat3,technology
+728,cat4,theater
+729,cat5,film & video
+730,cat3,technology
+731,cat3,technology
+732,cat2,music
+733,cat2,music
+734,cat4,theater
+735,cat8,photography
+736,cat6,publishing
+737,cat2,music
+738,cat4,theater
+739,cat2,music
+740,cat4,theater
+741,cat4,theater
+742,cat2,music
+743,cat4,theater
+744,cat4,theater
+745,cat3,technology
+746,cat3,technology
+747,cat4,theater
+748,cat5,film & video
+749,cat3,technology
+750,cat2,music
+751,cat6,publishing
+752,cat4,theater
+753,cat8,photography
+754,cat4,theater
+755,cat4,theater
+756,cat4,theater
+757,cat5,film & video
+758,cat2,music
+759,cat2,music
+760,cat7,games
+761,cat2,music
+762,cat2,music
+763,cat4,theater
+764,cat2,music
+765,cat2,music
+766,cat5,film & video
+767,cat6,publishing
+768,cat4,theater
+769,cat7,games
+770,cat4,theater
+771,cat4,theater
+772,cat2,music
+773,cat4,theater
+774,cat3,technology
+775,cat2,music
+776,cat4,theater
+777,cat4,theater
+778,cat5,film & video
+779,cat4,theater
+780,cat5,film & video
+781,cat4,theater
+782,cat5,film & video
+783,cat2,music
+784,cat3,technology
+785,cat5,film & video
+786,cat2,music
+787,cat2,music
+788,cat5,film & video
+789,cat4,theater
+790,cat4,theater
+791,cat1,food
+792,cat4,theater
+793,cat6,publishing
+794,cat2,music
+795,cat5,film & video
+796,cat7,games
+797,cat3,technology
+798,cat4,theater
+799,cat4,theater
+800,cat2,music
+801,cat8,photography
+802,cat8,photography
+803,cat4,theater
+804,cat2,music
+805,cat5,film & video
+806,cat5,film & video
+807,cat4,theater
+808,cat1,food
+809,cat5,film & video
+810,cat4,theater
+811,cat7,games
+812,cat6,publishing
+813,cat7,games
+814,cat2,music
+815,cat2,music
+816,cat4,theater
+817,cat6,publishing
+818,cat4,theater
+819,cat7,games
+820,cat2,music
+821,cat5,film & video
+822,cat2,music
+823,cat2,music
+824,cat6,publishing
+825,cat5,film & video
+826,cat4,theater
+827,cat5,film & video
+828,cat4,theater
+829,cat4,theater
+830,cat4,theater
+831,cat8,photography
+832,cat6,publishing
+833,cat6,publishing
+834,cat4,theater
+835,cat3,technology
+836,cat2,music
+837,cat2,music
+838,cat4,theater
+839,cat5,film & video
+840,cat4,theater
+841,cat3,technology
+842,cat3,technology
+843,cat8,photography
+844,cat5,film & video
+845,cat3,technology
+846,cat3,technology
+847,cat1,food
+848,cat5,film & video
+849,cat2,music
+850,cat2,music
+851,cat2,music
+852,cat7,games
+853,cat2,music
+854,cat6,publishing
+855,cat4,theater
+856,cat1,food
+857,cat5,film & video
+858,cat1,food
+859,cat4,theater
+860,cat3,technology
+861,cat4,theater
+862,cat4,theater
+863,cat5,film & video
+864,cat5,film & video
+865,cat4,theater
+866,cat8,photography
+867,cat1,food
+868,cat4,theater
+869,cat5,film & video
+870,cat4,theater
+871,cat4,theater
+872,cat5,film & video
+873,cat8,photography
+874,cat8,photography
+875,cat2,music
+876,cat8,photography
+877,cat1,food
+878,cat2,music
+879,cat6,publishing
+880,cat2,music
+881,cat4,theater
+882,cat4,theater
+883,cat5,film & video
+884,cat4,theater
+885,cat4,theater
+886,cat2,music
+887,cat4,theater
+888,cat4,theater
+889,cat2,music
+890,cat2,music
+891,cat5,film & video
+892,cat6,publishing
+893,cat5,film & video
+894,cat5,film & video
+895,cat4,theater
+896,cat1,food
+897,cat4,theater
+898,cat5,film & video
+899,cat2,music
+900,cat3,technology
+901,cat2,music
+902,cat3,technology
+903,cat6,publishing
+904,cat6,publishing
+905,cat4,theater
+906,cat5,film & video
+907,cat4,theater
+908,cat7,games
+909,cat4,theater
+910,cat4,theater
+911,cat3,technology
+912,cat5,film & video
+913,cat5,film & video
+914,cat4,theater
+915,cat5,film & video
+916,cat8,photography
+917,cat5,film & video
+918,cat6,publishing
+919,cat4,theater
+920,cat5,film & video
+921,cat3,technology
+922,cat2,music
+923,cat4,theater
+924,cat4,theater
+925,cat4,theater
+926,cat1,food
+927,cat4,theater
+928,cat3,technology
+929,cat4,theater
+930,cat4,theater
+931,cat4,theater
+932,cat2,music
+933,cat4,theater
+934,cat4,theater
+935,cat4,theater
+936,cat4,theater
+937,cat5,film & video
+938,cat6,publishing
+939,cat7,games
+940,cat3,technology
+941,cat4,theater
+942,cat4,theater
+943,cat1,food
+944,cat8,photography
+945,cat8,photography
+946,cat4,theater
+947,cat4,theater
+948,cat5,film & video
+949,cat3,technology
+950,cat4,theater
+951,cat2,music
+952,cat5,film & video
+953,cat5,film & video
+954,cat3,technology
+955,cat4,theater
+956,cat5,film & video
+957,cat4,theater
+958,cat5,film & video
+959,cat6,publishing
+960,cat3,technology
+961,cat6,publishing
+962,cat1,food
+963,cat8,photography
+964,cat4,theater
+965,cat2,music
+966,cat4,theater
+967,cat2,music
+968,cat1,food
+969,cat4,theater
+970,cat4,theater
+971,cat5,film & video
+972,cat3,technology
+973,cat4,theater
+974,cat2,music
+975,cat4,theater
+976,cat4,theater
+977,cat1,food
+978,cat7,games
+979,cat4,theater
+980,cat6,publishing
+981,cat3,technology
+982,cat5,film & video
+983,cat5,film & video
+984,cat4,theater
+985,cat2,music
+986,cat2,music
+987,cat5,film & video
+988,cat6,publishing
+989,cat6,publishing
+990,cat5,film & video
+991,cat2,music
+992,cat5,film & video
+993,cat8,photography
+994,cat6,publishing
+995,cat1,food
+996,cat4,theater
+997,cat4,theater
+998,cat2,music
+999,cat1,food
