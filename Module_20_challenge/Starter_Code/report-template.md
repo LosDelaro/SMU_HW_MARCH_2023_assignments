@@ -4,13 +4,13 @@
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* Explain the purpose of the analysis.
+* Purpose of the analysis.
 This models purpose is to build a model that can identify the creditworthiness of borrowers.
 
-* Explain what financial information the data was on, and what you needed to predict.
+* The financial information the data was on, and what you needed to predict.
 The data was on the columns of the data set of interest_rate ,borrower_income,debt_to_income,num_of_accounts,derogatory_marks,total_debt,loan_status. The prediction was needed on creditworthiness.
 
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
+* Here is the basic information about the variables you were trying to predict (e.g., `value_counts`).
 The basic information on variables used to predict the creditworthiness are :
         
 *interest_rate      
@@ -21,7 +21,7 @@ The basic information on variables used to predict the creditworthiness are :
 *debt_to_income      
 *derogatory_marks   
 
-* Describe the stages of the machine learning process you went through as part of this analysis.
+*The stages of the machine learning process I went through as part of this analysis.
 The list of stages required for this process are
 1. import pandas libraries :pandas,numpy, ML helpers from scikitlear such as train_test_split, confusion _matrix,classification _report, roc_auc_score, roc_curve. Scaling from scikitlear StandardScaler and MinMax. and several others for algorithms and trees.
 2. Read in the data set
@@ -35,12 +35,11 @@ The list of stages required for this process are
 10. Additonal exploration done with algorithims on unscaled data with Kneighbors , RandomForest, Ada boost, GRadientBoosting, Xgb,
 lgbm. This led to the conclusing the adaboost algorithm had a better auc score than the liner regression  
 
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
-No Resampling method done on this module. However additional exploration done with MinMax scaler and other algorithms
+*No Resampling method done on this module. However additional exploration done with MinMax scaler and other algorithms
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+The balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:LogisticRegression()
   * Description of Model 1 Accuracy
