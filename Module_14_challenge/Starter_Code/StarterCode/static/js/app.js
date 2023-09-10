@@ -113,7 +113,7 @@ function optionChanged(val) {
     let wfreq_avg = data.metadata.map(x => x.wfreq).reduce((a,b)=> a+b)/data.metadata.length;
     wfreq_avg = wfreq_avg.toFixed(0);//round
 
-  // Trace for the bubble chart
+  // Trace for the gauge chart
     let trace1 = {
       domain: { x: [0, 1], y: [0, 1] },
     value: wfreq,
@@ -141,7 +141,7 @@ function optionChanged(val) {
 
   // Apply a title to the layout
     let layout = {
-      "title": `Belly Button Washing Frequency
+      "title": `<b>Belly Button Washing Frequency fpr ID:${val}</b>
       <BR>
       Scrubs per Week`,
     
